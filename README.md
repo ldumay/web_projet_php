@@ -1,8 +1,6 @@
 # Web Projet Php
 
-Ceci est un model de projet web php.
-
-Celui-ci inclus Composer.
+Ceci est un model de projet web php. Celui-ci inclus Composer.
 
 ## Requis pour ce projet :
 
