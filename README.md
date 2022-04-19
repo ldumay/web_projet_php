@@ -2,12 +2,12 @@
 
 Ceci est un model de projet web php.
 
-Celui-ci inclus [Composer]().
+Celui-ci inclus Composer.
 
 ## Requis pour ce projet :
 
-- php : 7.1.33 (ou ultérieur)
-- composer : 2.2.7 (ou ultérieur)
+- php : 7.1.33 (ou ultérieur) --> [Php](https://www.php.net/)
+- composer : 2.2.7 (ou ultérieur) --> [Composer](https://getcomposer.org/)
 
 Les versions antiéreur sont à vérifier.
 
@@ -30,7 +30,7 @@ F:\Web_Php\web_projet_php_model>php -S localhost:8000
 [Tue Apr 19 12:39:25 2022] PHP 7.4.26 Development Server (http://localhost:8000) started
 ```
 
-Le projet est maintenant accessible à l'adresse : [localhost:8000](localhost:8000)
+Le projet est maintenant accessible à l'adresse : [localhost:8000](http://localhost:8000)
 
 Vous distingerez aussi que votre terminal deviens une console affichant les logs de votre projet réagissant dans votre navigateur, tels que :
 
